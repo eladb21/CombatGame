@@ -9,7 +9,14 @@ Combat Game - Collect weapons and survive
   </a>
 
   <h2 align="center"><Bold>Combat Game</Bold></h2>
-
+  <br />
+  <br />
+  #Developed by Elad Ben Abraham
+  #I implemented queue for the weapons
+  #Pure Java
+  <br />
+  <br />
+  <br />
   <p align="center">
     Go on the map around the trees, collect weapons and be the last survivor.
     <br />
@@ -38,8 +45,11 @@ Combat Game - Collect weapons and survive
     <br />
     Magic Ring - stronger than Fire Ball
     <br />
-    <p text-align-last: right>
-      Fire Ball - stronger than Sword
-    </p>
+    Fire Ball - stronger than Sword
+    <br />
+    <br />
+    Another player - Battel!
+    <br />
+    Every player pulls out a weapon by the order of which they collected
   </p>
 </p>
