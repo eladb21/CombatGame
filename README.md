@@ -32,5 +32,12 @@ Combat Game - Collect weapons and survive
     <br />
     Weapon:
     <br />
+    There is a three kind of weapons.
+    <br />
+    Sword - stronger than Magic Ring
+    <br />
+    Magic Ring - stronger than Fire Ball
+    <br />
+    Fire Ball - stronger than Sword
   </p>
 </p>
