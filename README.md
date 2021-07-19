@@ -22,6 +22,15 @@ Combat Game - Collect weapons and survive
   <p align="center">
     Walk on the map, note that the trees are not in your way.
     <br />
-     mdj sj dsjmsndkmdskjs sdj msd
+    In your way, you can find three different things:
+    <br />
+    <br />
+    Tree:
+    <br />
+    It block your way!
+    <br />
+    <br />
+    Weapon:
+    <br />
   </p>
 </p>
