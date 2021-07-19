@@ -16,7 +16,7 @@ Combat Game - Collect weapons and survive
     Think and choose wisely, attack or prepare yourself
     <br />
     <br />
-    <h3>Instructions</h3>
+    <h3 align="center">Instructions</h3>
     <ul>
       <li>a</li>
     </ul>
