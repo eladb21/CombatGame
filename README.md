@@ -5,7 +5,7 @@ Combat Game - Collect weapons and survive
 <br />
 <p align="center">
   <a href="https://github.com/eladb21/CombatGame">
-    <img src="Images/sword-logo.jpg" alt="Logo" width="300" height="300">
+    <img src="Images/sword-logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
