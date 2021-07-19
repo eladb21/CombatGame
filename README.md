@@ -17,8 +17,6 @@ Combat Game - Collect weapons and survive
     <br />
     <br />
     <h3 align="center">Instructions</h3>
-    <ul align="center">
-      <li align="center">Walk on the map, note that the trees are not in your way.</li>
-    </ul>
+    Walk on the map, note that the trees are not in your way.
   </p>
 </p>
