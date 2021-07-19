@@ -12,7 +12,9 @@ Combat Game - Collect weapons and survive
   <br />
   <br />
   #Developed by Elad Ben Abraham
+  <br />
   #I implemented queue for the weapons
+  <br />
   #Pure Java
   <br />
   <br />
