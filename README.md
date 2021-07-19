@@ -16,7 +16,9 @@ Combat Game - Collect weapons and survive
     Think and choose wisely, attack or prepare yourself
     <br />
     <br />
-    <h3 align="center">Instructions</h3>
+  </p>
+  <h3 align="center">Instructions</h3>
+  <p align="center">
     Walk on the map, note that the trees are not in your way.
   </p>
 </p>
