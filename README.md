@@ -38,6 +38,8 @@ Combat Game - Collect weapons and survive
     <br />
     Magic Ring - stronger than Fire Ball
     <br />
-    Fire Ball - stronger than Sword
+    <p text-align-last: right>
+      Fire Ball - stronger than Sword
+    </p>
   </p>
 </p>
