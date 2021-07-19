@@ -11,15 +11,14 @@ Combat Game - Collect weapons and survive
   <h2 align="center"><Bold>Combat Game</Bold></h2>
 
   <p align="center">
-    Walk on the map and collect weapons
+    Go on the map around the trees, collect weapons and be the last survivor.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    Think and choose wisely, attack or prepare yourself
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <h3>Instructions</h3>
+    <ul>
+      <li>a</li>
+    </ul>
   </p>
 </p>
