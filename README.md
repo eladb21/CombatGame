@@ -15,33 +15,33 @@ Combat Game - Collect weapons and survive
   <br />
   #I implemented queue for the weapons
   <br />
-  #Pure Java
+  #Pure Java ??
   <br />
   <br />
   <br />
   <p align="center">
-    Go on the map around the trees, collect weapons and be the last survivor.
+    Follow the map and go around the trees, collect weapons and be the last survivor.
     <br />
-    Think and choose wisely, attack or prepare yourself
+    Think and choose wisely, attack or prepare yourself for attack.
     <br />
     <br />
   </p>
   <h3 align="center">Instructions</h3>
   <br />
   <p align="center">
-    Walk on the map, note that the trees are not in your way.
+    Walk along the map, beware of the trees.
     <br />
-    In your way, you can find three different things:
+    On your way, you can find three different things:
     <br />
     <br />
     Tree:
     <br />
-    It block your way!
+    Blocks your way!
     <br />
     <br />
     Weapon:
     <br />
-    There is a three kind of weapons.
+    There are three kinds of weapons.
     <br />
     Sword - stronger than Magic Ring
     <br />
@@ -50,8 +50,8 @@ Combat Game - Collect weapons and survive
     Fire Ball - stronger than Sword
     <br />
     <br />
-    Another player - Battel!
+    Another player - Battle!
     <br />
-    Every player pulls out a weapon by the order of which they collected
+    Every player pulls out a weapon in the order of which they are collected.
   </p>
 </p>
